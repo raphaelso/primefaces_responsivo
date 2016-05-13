@@ -1,4 +1,4 @@
-package com.algaworks.controller;
+package com.rbsistemas.controller;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -11,8 +11,8 @@ import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 import javax.faces.context.FacesContext;
 
-import com.algaworks.model.Cliente;
-import com.algaworks.model.Endereco;
+import com.rbsistemas.model.Cliente;
+import com.rbsistemas.model.Endereco;
 
 @ManagedBean
 @SessionScoped

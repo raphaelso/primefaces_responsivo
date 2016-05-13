@@ -1,3 +1,4 @@
+/* BOTÃO MENU */
 $(document).ready(function() {
 	$('.js-toggle').bind('click', function(){
 		$('.js-sidebar').toggleClass('is-toggled');

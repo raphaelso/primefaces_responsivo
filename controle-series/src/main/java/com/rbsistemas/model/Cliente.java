@@ -1,4 +1,4 @@
-package com.algaworks.model;
+package com.rbsistemas.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;
